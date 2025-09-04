@@ -24,3 +24,9 @@ O sistema permite registrar os equipamentos existentes, realizar verificações 
 - SQLAlchemy (opcional, se usar ORM)
 - Tkinter / PyQt5 / Flask (dependendo do tipo de interface)
 - Pandas (opcional, para manipulação de dados e relatórios)
+
+  ## Aprendizados
+
+-Elaborar passos iniciais na linguagem Python
+-Criar banco de dados em SQL
+-Criar atalhos para inicialização do aplicativo
