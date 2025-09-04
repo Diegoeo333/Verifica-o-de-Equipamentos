@@ -27,6 +27,7 @@ O sistema permite registrar os equipamentos existentes, realizar verificações 
 
   ## Aprendizados
 
+-Criação de algoritimo basico para a função
 -Elaborar passos iniciais na linguagem Python
 -Criar banco de dados em SQL
 -Criar atalhos para inicialização do aplicativo
